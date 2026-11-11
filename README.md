@@ -371,9 +371,9 @@ These limitations mean that recommendations should be treated as hypothetical bu
 
 | File | Description |
 |---|---|
-| `01_data_exploration.ipynb` | Python exploration, financial validation, reconciliation, and business analysis |
-| `ECommerce_Profitability_Analysis.pdf` | Two-page Power BI dashboard |
-| `images/` | Dashboard preview images |
+| [`01_data_exploration.ipynb`](https://github.com/nkharchenkooo/ecommerce-sales-profitability-analysis/blob/main/01_data_exploration.ipynb) | Python exploration, financial validation, reconciliation, and business analysis |
+| [`ECommerce_Profitability_Analysis.pdf`](https://github.com/nkharchenkooo/ecommerce-sales-profitability-analysis/blob/main/ECommerce_Profitability_Analysis.pdf) | Two-page Power BI dashboard |
+
 
 ## Dashboard Preview
 
